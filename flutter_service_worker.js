@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "232de35adebfa41a81efe78b27bcffbe",
+  "assets/AssetManifest.json": "b9618a696e632c481066889979223f68",
 "assets/assets/fonts/visuelt/VisueltPro-Black.ttf": "691b6f9aa3ee625e3cd8da2f8849a126",
 "assets/assets/fonts/visuelt/VisueltPro-Bold.ttf": "18acd33c965a455418d4204f0f334ea8",
 "assets/assets/fonts/visuelt/VisueltPro-ExtraLight.ttf": "90bfa0766e43260710e3c6ac0f78c9e9",
@@ -11,6 +11,7 @@ const RESOURCES = {
 "assets/assets/fonts/visuelt/VisueltPro-Medium.ttf": "cf4dbc20776a2b309fe30a9bbfe7de0a",
 "assets/assets/fonts/visuelt/VisueltPro-Regular.ttf": "0f8cd2494eb8c5e3a33352b2dd38fd61",
 "assets/assets/fonts/visuelt/VisueltPro-Thin.ttf": "82d7b5b67c24f00acb08f2dccf1fd03b",
+"assets/assets/images/azure_ai_fund_cert.png": "66109702c9188b2a78ae35fa5828a30e",
 "assets/assets/images/circle.png": "663d5187ada8666bfa87120d1665605f",
 "assets/assets/images/data_lab_cert.png": "227a8022d02dd3a6d21bc3b2aff51269",
 "assets/assets/images/dev_meditate.png": "206861775d0f1fa15cd487e54df0fa3b",
@@ -78,9 +79,9 @@ const RESOURCES = {
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "icons/logo-aerium-1.png": "c9c1749b275f61ebc563d6596ccf2569",
 "icons/logo-aerium-2.png": "58b131c1e81194452cb702693c040a92",
-"index.html": "0ecb35567ad4e404d39e54c81eeef8f2",
-"/": "0ecb35567ad4e404d39e54c81eeef8f2",
-"main.dart.js": "a54ab6fb509ba1da21c31a0ddd542959",
+"index.html": "89c94bc6cc0b481ef26650ad24cd6e59",
+"/": "89c94bc6cc0b481ef26650ad24cd6e59",
+"main.dart.js": "c4d9f435c640da3c7ab0e235ff9e4a7b",
 "manifest.json": "603fbc6854b7f4afae3b4b7fc7be4bc0",
 "version.json": "3906fc5d38199c243ab81a45fee32c66"
 };
